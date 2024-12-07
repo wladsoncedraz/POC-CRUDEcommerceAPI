@@ -30,3 +30,7 @@ Helpful:
         ```docker
         docker ps -a
         ```
+    To show the container details:
+        ```docker
+        docker inspect <CONTAINER_NAME>
+        ```
