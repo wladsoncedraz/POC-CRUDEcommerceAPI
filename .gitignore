@@ -4,3 +4,7 @@
 /Application/Ecommerce/Ecommerce.Application/obj
 /Application/Ecommerce/Ecommerce.Core/obj
 /Application/Ecommerce/Ecommerce.Infrastructure/obj
+/Application/Ecommerce/Ecommerce.API/bin
+/Application/Ecommerce/Ecommerce.Application/bin
+/Application/Ecommerce/Ecommerce.Core/bin
+/Application/Ecommerce/Ecommerce.Infrastructure/bin
